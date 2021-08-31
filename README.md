@@ -1,7 +1,11 @@
-# stone-detection
-# data
+# Stone-detection
+# Environment
+##  Python = 3.6.12
+##  Numpy = 1.18.5
+##  Opencv-python = 4.1.2.30
+# Data
        ./video.avi
-# test
+# Test
        python dealWithVideo.py
 # Result
        ./video_new.avi
